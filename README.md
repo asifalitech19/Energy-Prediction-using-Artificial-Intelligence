@@ -25,6 +25,8 @@ It features a **Cinematic 3D Interface** with holographic visuals, making energy
 
 ## 🌍 Global Research Context
 This project is an extension of my research at **Chengdu University of Technology, China**, where I analyzed energy consumption patterns of 2.2 Million households to build sustainable AI solutions.
+## Live Demo:
+https://energy-prediction-using-artificial-intelligence-depchniezjensd.streamlit.app/
 
 ---
 *Developed by [Asif Ali](https://www.linkedin.com/in/asif-ali-401499295/)*
